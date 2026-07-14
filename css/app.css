@@ -5280,3 +5280,19 @@ span.label {
 .audio.playing .cover .disc {
   animation-play-state: running;
 }
+body {
+  background-image: url("/images/gallery/gallery_7.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.main-inner {
+  background: rgba(255,255,255,0.88);
+  border-radius: 8px;
+  padding: 20px;
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.82);
+  border-radius: 8px;
+}
